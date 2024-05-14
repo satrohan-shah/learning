@@ -1,4 +1,4 @@
-package learning.java;
+
 import java.util.Scanner;
 public class percentagecalculator {
     public static void main(String[] args) {
