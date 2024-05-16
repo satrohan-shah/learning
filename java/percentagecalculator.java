@@ -14,7 +14,7 @@ public class percentagecalculator {
         System.out.println("chemistry ke number");
         float chemistry = sc.nextFloat();
         float res = (hindi+bio+physics+english+chemistry)/5;
-        System.out.println(res);
+        System.out.println(res + "%");
 
     }
 }
