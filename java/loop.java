@@ -7,7 +7,7 @@ public class loop {
 System.out.println("thanks your loop is here");
        
              //while loop
-        /*
+        /* 
         while(num<=5){
             System.out.println(num++);
         }
@@ -22,9 +22,9 @@ System.out.println("thanks your loop is here");
                    );
                    */
                   //for loop
-                 /*for(num=1;num!=20; num++){
+                 for(num=1;num!=20; num++){
                     System.out.println(num++);
                  };
-*/
+
     }
 }

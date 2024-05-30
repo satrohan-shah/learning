@@ -12,7 +12,7 @@ public class oprator {
            //comperision oprator
 
         boolean c = (64==64);
-        //boolean d = (64>=64);
+        //boolean d = (64>=97);
         //boolean e = (64<=64);
             System.out.println(c);
 

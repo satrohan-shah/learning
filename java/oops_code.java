@@ -1,5 +1,5 @@
 public class oops_code {
-    public static class employee{
+ static class employee{
         private int id;
         private String name;
 public int getid(){
@@ -10,14 +10,16 @@ public String getname(){
     
 }
 public void setname(String n){
-    this.name=n;
+    name=n;
+}
+public void setid(int i){
+    id=i;
 }
     }
     public static void main(String[] args) {
         employee data = new employee();
-        data.id=18;
-        data.setname("");
-        System.out.println(data.getname());
-        System.out.println(data.getid());
+        data.setid(18);
+        data.setname("satrohan shah");
+        System.out.println("Hi my name is "+data.getname()+" and my age is "+data.getid());
     }
 }
