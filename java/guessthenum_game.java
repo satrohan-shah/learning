@@ -19,7 +19,7 @@ public class guessthenum_game {
             return number;
         }
         public int setnoofguessnum(int n){
-                  number=n;
+                 this.number=n;
             return number;
 
         }
